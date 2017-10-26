@@ -1,0 +1,62 @@
+#doc {
+	color: #222222;
+	font-family: 'Roboto', sans-serif;
+}
+
+#h1 {
+	font-size: 2rem;
+	font-variant: small-caps;
+	font-weight: 400;
+	text-align: center;
+	border-bottom-color: #aaaaaa; border-bottom-style: solid; border-bottom-width: 2px;
+}
+
+.h2 {
+	font-size: 1,5rem;
+	font-weight: 400;
+	border-bottom-color: #aaaaaa; border-bottom-style: solid; border-bottom-width: 2px;
+}
+
+.h3 {
+	font-size: 1,3rem;
+	font-weight: 400;
+}
+
+#h4 {
+	font-size: 1,1rem;
+	font-weight: 600;
+}
+
+#soderzhanie {
+	margin: 15px 40px;
+	padding: 15px;
+	width: 250px;
+	background: #eeeeee;
+	border-radius: 3px;
+	border: 1px solid #dddddd;
+}
+#picture
+{
+	margin: 15px 40px;
+	padding: 15px;
+	width: 250px;
+	background: #eeeeee;
+	border-radius: 3px;
+	border: 1px solid #dddddd;
+	
+}
+
+#img {
+	width: 100px;
+	border-radius: 3px;
+}
+
+p {
+	text-align: justify;
+	text-indent: 40px;
+}
+
+a {
+	color: #0088ff;
+	text-decoration: none;
+}
